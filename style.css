@@ -18,7 +18,13 @@
         font-weight: 700;
     }
   }
-
+  @media only screen and (max-width: 768px){
+    html,
+    body{
+    width:100% !important;
+    overflow-x:hidden !important;
+    }
+}
 /*-------------------------------------------------------------------
     2.basic
 -------------------------------------------------------------------*/
