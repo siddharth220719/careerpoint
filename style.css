@@ -12,7 +12,7 @@
 @media (max-width: 767px) {
     .slide_cont h3 {
         color: #fff;
-        font-size: 37px !important;
+        font-size: 28px !important;
         letter-spacing: -2px ;
         margin: 0 0 13px 0 !important;
         font-weight: 700;
@@ -23,6 +23,12 @@
     body{
     width:100% !important;
     overflow-x:hidden !important;
+    }
+    .slider_cont_inner{
+       
+            margin-top: -61px !important;
+            margin-left: 25px !important;
+        
     }
 }
 /*-------------------------------------------------------------------
